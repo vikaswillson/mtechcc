@@ -1,3 +1,3 @@
 i
-hello this is my first program:wq
-
+hello this is my first program:w
+second commit
